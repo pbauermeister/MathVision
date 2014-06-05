@@ -35,7 +35,7 @@ MathVision.html involves a combination of the following technologies.
 
 All (graphics, animation, user interaction) is completely handled by your HTML5 enabled web browser. There is no Flash involved here.
 
-The 2D mode of the <canvas> element is used and controlled by some auto-generated JavaScript.
+The 2D mode of the `<canvas>` element is used and controlled by some auto-generated JavaScript.
 
 About HTML5 canvas, see http://www.html5canvastutorials.com/tutorials/html5-canvas-tutorials-introduction/.
 
@@ -52,8 +52,8 @@ See: http://processingjs.org/
 
 ### Your HTML5 enabled web browser
 
-When your browser encounters the first <script> tag, it will fetch the Processing.js implementation script, which is just a big JavaScript program.
+When your browser encounters the first `<script>` tag, it will fetch the Processing.js implementation script, which is just a big JavaScript program.
 
-Then, when encountering the second <script> tag, it will pass its content to the fetched processing.js script. The content is, well, processed by processing.js, which turns the content into JavaScript code that your browser can execute.
+Then, when encountering the second `<script>` tag, it will pass its content to the fetched processing.js script. The content is, well, processed by processing.js, which turns the content into JavaScript code that your browser can execute.
 
-Finally, this generated JavaScript run and applied to the <canvas> element.
+Finally, this generated JavaScript run and applied to the `<canvas>` element.
