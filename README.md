@@ -13,7 +13,7 @@ MathVision.html aims at allowing you, the user, to **focus on the math formula a
 
 * Gallery of results: http://www.openprocessing.org/user/35108.
 
-  <img src="https://raw.githubusercontent.com/pbauermeister/MathVision/master/screenshots/gallery.png" width="376" alt="MathVision" title="MathVision" />
+  <img src="https://raw.githubusercontent.com/pbauermeister/MathVision/master/screenshots/gallery.png" alt="MathVision" title="MathVision" />
 
 
 
