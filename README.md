@@ -9,6 +9,8 @@ MathVision.html entirely runs in your browser. Follow [this link](http://htmlpre
 
 Follow this other link to see a gallery of results: http://www.openprocessing.org/user/35108
 
+And this link provides a comprehensible step-by-step tutorial: http://www.instructables.com/id/MathVision/.
+
 MathVision.html is inspired by and dedicated to the Amiga MathVISION software, see http://home.olympus.net/~7seas/. 
 
 
