@@ -54,6 +54,6 @@ See: http://processingjs.org/
 
 When your browser encounters the first `<script>` tag, it will fetch the Processing.js implementation script, which is just a big JavaScript program.
 
-Then, when encountering the second `<script>` tag, it will pass its content to the fetched processing.js script. The content is, well, processed by processing.js, which turns the content into JavaScript code that your browser can execute.
+Then, when encountering the second `<script>` tag, it will pass its content to the fetched processing.js script. The content is, well, _processed_ by processing.js, which turns the content into JavaScript code that your browser can execute.
 
-Finally, this generated JavaScript run and applied to the `<canvas>` element.
+Finally, this generated JavaScript program runs and draws into the `<canvas>` element.
