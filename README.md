@@ -6,9 +6,9 @@ MathVision.html aims at allowing you, the user, to **focus on the math formula a
 
 * MathVision.html entirely runs in your browser. Follow [this link](http://htmlpreview.github.io/?https://github.com/pbauermeister/MathVision/blob/master/MathVision.html).
 
-* Follow this other link to see a gallery of results: http://www.openprocessing.org/user/35108
+* Gallery of results: http://www.openprocessing.org/user/35108
 
-* And this link provides a comprehensible step-by-step tutorial: http://www.instructables.com/id/MathVision/.
+* Comprehensible step-by-step tutorial: http://www.instructables.com/id/MathVision/.
 
 MathVision.html is inspired by and dedicated to the Amiga MathVISION software, see http://home.olympus.net/~7seas/. 
 
