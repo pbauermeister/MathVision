@@ -1,14 +1,15 @@
 # Welcome to the MathVision repository
 
-MathVision renders math-computed images, entirely in your browser.
+**Create, by means of a math formula, static, animated, and interactive 2D images.**
 
-It allows to create, by means of a formula, static, animated, and interactive 2D images.
+MathVision.html aims at allowing you, the user, to **focus on the math formula and user interaction**, and, after a few minutes of training, obtain cool and exciting results.
 
-MathVision runs in your browser. Follow [this link](http://htmlpreview.github.io/?https://github.com/pbauermeister/MathVision/blob/master/MathVision.html).
 
-Follow this link to see a gallery of results: http://www.openprocessing.org/user/35108
+MathVision.html entirely runs in your browser. Follow [this link](http://htmlpreview.github.io/?https://github.com/pbauermeister/MathVision/blob/master/MathVision.html).
 
-MathVision is inspired by and dedicated to the Amiga MathVISION software, see http://home.olympus.net/~7seas/. 
+Follow this other link to see a gallery of results: http://www.openprocessing.org/user/35108
+
+MathVision.html is inspired by and dedicated to the Amiga MathVISION software, see http://home.olympus.net/~7seas/. 
 
 
 ## Features
@@ -27,7 +28,7 @@ MathVision is inspired by and dedicated to the Amiga MathVISION software, see ht
 
 ## How it Works
 
-MathVision is a combination of techniques allowing the user to focus on the math formula and user interaction, and, after a few minutes of training, obtain cool and exciting results.
+MathVision.html involves a combination of the following technologies.
 
 ### HTML5 Canvas
 
@@ -37,7 +38,7 @@ The 2D mode of the <canvas> element is used and controlled by some auto-generate
 
 About HTML5 canvas, see http://www.html5canvastutorials.com/tutorials/html5-canvas-tutorials-introduction/.
 
-### Processing
+### Processing.js
 
 Wikipedia says: Processing.js is a JavaScript port of Processing, a programming language designed to write visualizations, images, and interactive content. It allows web browsers to display animations, visual applications, games and other graphical rich content without the need for a Java applet or Flash plugin.
 
