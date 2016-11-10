@@ -39,7 +39,18 @@ Credits:
       <textarea id="formulaTextarea"
 		style="width:600px;height:320px"
 		wrap="off"
-		></textarea>
+		>
+WIDTH = 200;
+RATIO = 1;
+X_MIN = 0; X_MAX = 10;
+Y_MIN = 0; Y_MAX = 10;
+
+color rgb(x, y) {
+  float value = (int)x % 2 == (int)y % 2;
+  float luma = value * 255;
+  return color(luma);
+}  
+      </textarea>
       <br />
 
       <button id="runButton" onclick="runClicked()">Run</button>
